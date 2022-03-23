@@ -7,7 +7,7 @@ from io import TextIOWrapper
 from typing import Optional
 
 desc =  """
-        Counts maximum number of differen pairs of nodes so that one node is red, other
+        Counts maximum number of different pairs of nodes so that one node is red, other
         is blue and all pairs can be connected by mutually disjunctive paths.
         If file is not specified, graph is read from standard input.
         """
